@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Tap Me/ViewController.m"
-            timestampString = "425172149.106371"
+            timestampString = "425173991.95701"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "48"
-            endingLineNumber = "48"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
             landmarkName = "-setupGame"
             landmarkType = "5">
          </BreakpointContent>
